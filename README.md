@@ -1,3 +1,3 @@
-Hi, my name is Nova.
+Hey, I'm Nova.
 
-I'm a FOSS an GNU+Linux enthusiast and hopeless distrohopper.
+I love free software and especially the GNU+Linux OS.
